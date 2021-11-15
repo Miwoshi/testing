@@ -1,7 +1,4 @@
 # testing
-hi
 
-czesc
-
-halo
-git s
+Zmieniłem readme
+nie działa :/
