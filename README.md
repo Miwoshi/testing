@@ -1,2 +1,7 @@
 # testing
-hi
+
+Zmieniłem readme
+nie działa :/
+
+znowu zmienilem
+
