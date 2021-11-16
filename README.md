@@ -4,4 +4,4 @@ Zmieniłem readme
 nie działa :/
 
 znowu zmienilem
-DD
+
